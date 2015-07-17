@@ -3,7 +3,6 @@
 When reading in a SMURF robot representation, the SMURF parser yields a [boost::shared_ptr](http://www.boost.org/doc/libs/1_57_0/libs/smart_ptr/shared_ptr.htm) to a [URDF model](https://github.com/ros/urdfdom_headers/blob/master/urdf_model/include/urdf_model/model.h) as well as a [ConfigMap](https://github.com/rock-simulation/configmaps) containing the annotations contained in the SMURF's YAML files (see below).
 
 ---
-asdasd
 
 # SMURF
 
